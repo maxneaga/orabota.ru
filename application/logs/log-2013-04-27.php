@@ -1,0 +1,41 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2013-04-27 04:15:39 --> 404 Page Not Found --> favicon.ico
+ERROR - 2013-04-27 04:15:40 --> Severity: Warning  --> require_once(class.smtp.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory /var/www/u1621358/public_html/dev.orabota.ru/application/libraries/Mailer.php 984
+ERROR - 2013-04-27 04:15:41 --> 404 Page Not Found --> favicon.ico
+ERROR - 2013-04-27 04:16:37 --> 404 Page Not Found --> favicon.ico
+ERROR - 2013-04-27 04:24:15 --> 404 Page Not Found --> favicon.ico
+ERROR - 2013-04-27 04:36:02 --> 404 Page Not Found --> favicon.ico
+ERROR - 2013-04-27 04:36:03 --> 404 Page Not Found --> favicon.ico
+ERROR - 2013-04-27 04:36:16 --> 404 Page Not Found --> favicon.ico
+ERROR - 2013-04-27 04:36:26 --> 404 Page Not Found --> favicon.ico
+ERROR - 2013-04-27 04:36:44 --> 404 Page Not Found --> mail
+ERROR - 2013-04-27 04:36:44 --> 404 Page Not Found --> favicon.ico
+ERROR - 2013-04-27 04:38:05 --> 404 Page Not Found --> mail
+ERROR - 2013-04-27 04:38:05 --> 404 Page Not Found --> favicon.ico
+ERROR - 2013-04-27 04:38:13 --> Severity: Notice  --> Undefined property: Main::$employer /var/www/u1621358/public_html/dev.orabota.ru/application/controllers/main.php 176
+ERROR - 2013-04-27 04:38:14 --> 404 Page Not Found --> favicon.ico
+ERROR - 2013-04-27 04:39:07 --> 404 Page Not Found --> favicon.ico
+ERROR - 2013-04-27 04:39:28 --> 404 Page Not Found --> favicon.ico
+ERROR - 2013-04-27 04:39:28 --> 404 Page Not Found --> favicon.ico
+ERROR - 2013-04-27 04:39:29 --> 404 Page Not Found --> favicon.ico
+ERROR - 2013-04-27 04:42:05 --> 404 Page Not Found --> favicon.ico
+ERROR - 2013-04-27 04:42:07 --> 404 Page Not Found --> favicon.ico
+ERROR - 2013-04-27 04:42:07 --> 404 Page Not Found --> favicon.ico
+ERROR - 2013-04-27 04:42:47 --> 404 Page Not Found --> favicon.ico
+ERROR - 2013-04-27 04:42:48 --> 404 Page Not Found --> favicon.ico
+ERROR - 2013-04-27 04:43:22 --> 404 Page Not Found --> favicon.ico
+ERROR - 2013-04-27 04:43:22 --> 404 Page Not Found --> favicon.ico
+ERROR - 2013-04-27 04:43:53 --> 404 Page Not Found --> favicon.ico
+ERROR - 2013-04-27 04:44:14 --> 404 Page Not Found --> favicon.ico
+ERROR - 2013-04-27 04:44:14 --> 404 Page Not Found --> favicon.ico
+ERROR - 2013-04-27 04:45:29 --> 404 Page Not Found --> favicon.ico
+ERROR - 2013-04-27 04:45:29 --> 404 Page Not Found --> favicon.ico
+ERROR - 2013-04-27 04:48:57 --> 404 Page Not Found --> favicon.ico
+ERROR - 2013-04-27 04:48:58 --> 404 Page Not Found --> favicon.ico
+ERROR - 2013-04-27 04:55:13 --> 404 Page Not Found --> favicon.ico
+ERROR - 2013-04-27 04:56:31 --> 404 Page Not Found --> favicon.ico
+ERROR - 2013-04-27 04:56:58 --> 404 Page Not Found --> favicon.ico
+ERROR - 2013-04-27 04:57:40 --> 404 Page Not Found --> favicon.ico
+ERROR - 2013-04-27 04:58:41 --> 404 Page Not Found --> favicon.ico
+ERROR - 2013-04-27 04:58:41 --> 404 Page Not Found --> favicon.ico

@@ -1,0 +1,323 @@
+html {
+    overflow-y: scroll;
+    outline: none;
+}
+
+:focus {
+    outline: none !important;
+}
+
+body {
+    padding-top: 20px;
+    padding-bottom: 40px;
+}
+
+h1 {
+    font-family: 'PT Sans';
+    font-weight: normal;
+    font-size: 60px;
+    font-weight: 200;
+    color: #5a5a5a;
+}
+
+h2 {
+    color: #444444;
+    margin-bottom: 13px;
+}
+
+h2 a {
+    font-weight: normal;
+    color: #333333;
+}
+
+h2 a:hover {
+    text-decoration: none;
+    color: #ff9100;
+}
+
+h2.logo {
+    font-family: 'PT Sans';
+    font-weight: 200;
+    font-size: 36px;
+    -webkit-font-smoothing: antialiased
+}
+
+.none,
+.none:hover {
+    font-weight: normal;
+    text-decoration: none;
+    color: #757575;
+}
+
+span.underlined {
+    border-bottom: 1px dashed;
+}
+
+a.nodecorate:hover {
+    text-decoration: none;
+}
+
+.clearboth {
+    clear: both;
+}
+
+.btn-primary {
+    background-image: none;
+}
+
+.btn-warning {
+    color: #333333;
+}
+
+.btn-warning:hover {
+    color: #111111;
+}
+
+#alert,
+#success {
+    display: none;
+    margin: 0 auto;
+    max-width: 450px;
+}
+
+.square {
+    -webkit-border-radius: 0px;
+     -moz-border-radius: 0px;
+          border-radius: 0px;
+}
+
+.well h2 {
+    line-height: 10px;
+    font-weight: normal;
+}
+
+.emphasized {
+    color: #ffa834;
+}
+
+.margin-in {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.muted-less {
+    color: #777777;
+}
+
+.xbold {
+    font-size: 130%;
+    font-weight: 900;
+}
+
+a.nostyle {
+    text-decoration: none;
+    color: #555555;
+    padding: 3px 3px 3px 3px;
+}
+
+a.nostyle:hover {
+    background: whiteSmoke;
+}
+
+.transparent {
+    opacity:.4;
+}
+
+.transparent:hover {
+    opacity:1;
+}
+
+/* Custom container */
+.container-narrow {
+    margin: 0 auto;
+    max-width: 1070px;
+}
+
+.centered {
+    text-align: center;
+}
+
+#footer {
+    opacity: 0.7;
+}
+
+/* People Search */
+.searchbox {
+    background: url(/assets/img/search_icon.png) no-repeat;
+    background-position: right;
+}
+
+
+/* Login Form */
+.login-form {
+    display: none;
+    width: 220px;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: #eaeaea;
+}
+
+form#login {
+	margin-bottom: 0px;
+}
+
+/* Adding margin*/
+.margin-10{
+    margin-top: 10px;
+}
+
+.margin-20{
+    margin-top: 20px;
+}
+
+.margin-25{
+    margin-top: 25px;
+}
+
+.margin-30{
+    margin-top: 30px;
+}
+
+.margin-50{
+    margin-top: 50px;
+}
+
+.margin-120 {
+    margin-top: 120px;
+}
+
+.language_select {
+    width: 100px;
+    border: none;
+    font-size: 14px;
+    height: 27px;
+}
+
+.language_select:focus {
+    background-color: #fff;
+    outline: 0;
+    -moz-outline-style: none;    
+}
+
+.hidden {
+    display: none;
+}
+
+#employee_info_textarea {
+    width: 98%;
+    height: 200px;
+    resize: none;
+}
+
+/* Overwriting Bootstrap Styles */
+select,
+textarea,
+input[type="text"],
+input[type="password"],
+input[type="datetime"],
+input[type="datetime-local"],
+input[type="date"],
+input[type="month"],
+input[type="time"],
+input[type="week"],
+input[type="number"],
+input[type="email"],
+input[type="url"],
+input[type="search"],
+input[type="tel"],
+input[type="color"],
+.uneditable-input {
+    font-size: 16px;
+    color: #555555;
+    -webkit-border-radius: 0px;
+     -moz-border-radius: 0px;
+          border-radius: 0px;
+}
+
+textarea,
+input[type="text"],
+input[type="password"],
+input[type="datetime"],
+input[type="datetime-local"],
+input[type="date"],
+input[type="month"],
+input[type="time"],
+input[type="week"],
+input[type="number"],
+input[type="email"],
+input[type="url"],
+input[type="search"],
+input[type="tel"],
+input[type="color"],
+.uneditable-input {
+    border: 2px solid #888888;
+}
+
+textarea:focus,
+input[type="text"]:focus,
+input[type="password"]:focus,
+input[type="datetime"]:focus,
+input[type="datetime-local"]:focus,
+input[type="date"]:focus,
+input[type="month"]:focus,
+input[type="time"]:focus,
+input[type="week"]:focus,
+input[type="number"]:focus,
+input[type="email"]:focus,
+input[type="url"]:focus,
+input[type="search"]:focus,
+input[type="tel"]:focus,
+input[type="color"]:focus,
+.uneditable-input:focus {
+  outline: 0;
+  /* IE6-9 */
+}
+
+
+input.lite {
+    border: 1px solid #dddddd !important;
+    width: 170px;
+}
+
+
+.btn {
+    -webkit-border-radius: 0px;
+    -moz-border-radius: 0px;
+        border-radius: 0px;
+}
+
+li.lead {
+    margin-bottom: 5px;
+    color: #555555;
+}
+
+label.lead {
+    margin-bottom: 0px;
+}
+
+p.lead {
+    margin-bottom: 5px;
+}
+
+.employee_info_rating {
+    cursor: pointer;
+}
+
+/*  jQuery  */
+.ui-menu {
+    background: #fff;
+    border: 1px solid #999;
+}
+
+.ui-menu:hover {
+    cursor: pointer; 
+}
+
+.ui-menu-item a:hover {
+    background: #efefef;
+}
+
+/* Form elements */
+#orgid {
+    width: 600px;
+}
