@@ -40,3 +40,7 @@ Employee review form:
 
 Recommendation request form:
 ![Recommendation request form](https://user-images.githubusercontent.com/3027370/37865042-da0141f8-2f44-11e8-8b4d-46b572ca6633.png)
+
+
+The site also had a protected administrative portal, where an admin could review latest user actions, view and manage all registered employers and people with reviews.
+![Admin interface](https://user-images.githubusercontent.com/3027370/37865166-9f5bffe6-2f46-11e8-9964-c0aaa0f2ffd4.png)
