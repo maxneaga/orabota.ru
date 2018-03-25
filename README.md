@@ -19,7 +19,7 @@ Orabota was a multilingual site and supported Google oAuth, as well as local acc
 
 
 All reviews left on the website were public, and searcheable by person's name.
-![Sample review](https://user-images.githubusercontent.com/3027370/37864953-b1832562-2f43-11e8-8f81-ba1ca2c8dc3a.png)
+![Sample review](https://user-images.githubusercontent.com/3027370/37870616-23bc866c-2fa0-11e8-8443-b840c81303fe.png)
 
 
 A visitor could contact the review author via a contact form.
